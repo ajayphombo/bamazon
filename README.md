@@ -2,15 +2,15 @@
 It's not amazon ! it's bamazon
 
 ## About
-------------
+
 This is an Amazon-like storefront node-app that utilizes a MySQL database to create an inventory. At present, the app is only able to take customers' order and update the inventory as needed. It also keeps track of customers' total due amount.
 
 ## Prerequisites
----------------------
+
 Users of app need to have node installed as well as access to a MySQL database. A MySQL document is provided as a reference. It is necessary to install the required node packages which are saved in the dependencies. 
 
 ## Example
---------------------------
+
 Working example of the app.
 
 To start the app one has to open the terminal and run the .js file in node.
@@ -37,5 +37,5 @@ But, if the desired amount is not present, then a users are shown message saying
 
 
 ## license
---------------
+
 **MIT** license
