@@ -12,25 +12,25 @@ Working example of the app.
 
 To start the app one has to open the terminal and run the .js file in node.
 
-![image](initialize.png)
+![Image](initialize.png)
 
 When the app is initialized the menu is displayed along with a welcome message.
 
-![image](displayMenu.png)
+![Image](displayMenu.png)
 
 
 At the same time user is prompted, first, to enter the id of the item one wants to buy and ,then, enter the amount/numnber of the item.
 
-![image](prompt.png)
+![Image](prompt.png)
 
 
 Then the user inputs the ID of the desired item and then the quantity of the desired item. Then, if the desired amount is available, the user is displayed with total amount due as well as updated menu as well as initial purchasing prompt.
 
-![image](buy.png)
+![Image](buy.png)
 
 But, if the desired amount is not present, then a users are shown message saying the item is not available. It also tells the users how many of the desired item is present. Then, the initial purchasing prompt is displayed again.
 
-![image](noBuy.png)
+![Image](noBuy.png)
 
 
 ##license
