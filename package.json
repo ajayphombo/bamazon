@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "It's not ama*on ! it's bamazon",
+  "main": "bamazonCustome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayphombo/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayphombo/bamazon/issues"
+  },
+  "homepage": "https://github.com/ajayphombo/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
