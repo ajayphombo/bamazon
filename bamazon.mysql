@@ -20,7 +20,7 @@ INSERT INTO products(product_name, department_name, price, stock_quantity)
 VALUES("muffins", "bakery", 1.50, 150);
 
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES("dining Table", "furniture", 150,20);
+VALUES("dining table", "furniture", 150,20);
 
 INSERT INTO products(product_name, department_name, price, stock_quantity)
 VALUES("chairs", "furniture", 35, 100);
@@ -38,7 +38,7 @@ INSERT INTO products(product_name, department_name, price, stock_quantity)
 VALUES("coke", "beverages", 1, 1000);
 
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES("crystal Gyesar", "beverages", .99, 1000);
+VALUES("Crystal Gyesar", "beverages", .99, 1000);
 
 INSERT INTO products(product_name, department_name, price, stock_quantity)
 VALUES("herradura reposada", "beverages", 45,50);
